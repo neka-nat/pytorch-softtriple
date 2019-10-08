@@ -1,0 +1,8 @@
+*~
+*.pyc
+*.log
+*.pth
+runs
+results/*.json
+data/CARS196
+data/cub200_2011
