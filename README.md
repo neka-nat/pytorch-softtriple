@@ -33,5 +33,8 @@ python train_softtriple.py
 
 #### Loss
 
+![loss](assets/loss.png)
 
 #### t-SNE
+
+![train_tsne](assets/train_tsne.gif)
